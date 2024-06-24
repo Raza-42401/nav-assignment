@@ -1,0 +1,51 @@
+#nav{
+    height: 80px;
+    width: 100%;
+    background-color: orangered;
+    display: flex;
+}
+#logo img{
+    height: 60%;
+    width: 60%;
+    margin: 15px 128px;
+}
+#logo{
+    height: 80px;
+    width: 20%;
+}
+#search-bar{
+    height: 80px;
+    width: 50%;
+    padding: 25px 19px;
+}
+#search-bar input{
+    height: 38px;
+    width: 780px;
+    border-radius: 14px;
+    border-color: orangered;
+}
+#user-account{
+    height: 80px;
+    width: 10%;
+}
+#user-portal{
+    list-style: none;
+    padding: 0px 0px 0px 0px;
+}
+li{
+    float: left;
+}
+#login{
+    margin: 18px 15px 0px 0px;
+    color: white;
+    font-size: large;
+}
+#seperation{
+    margin: 18px 3px 3px 4px;
+    font-size: large;
+}
+#sign-up{
+    margin: 18px 15px 18px 15px;
+    color: white;
+    font-size: large;
+}
